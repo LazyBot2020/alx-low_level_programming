@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* the alphabets in lowercase, and then in uppercase*/
+/**
+ * main - the alphabets in lowercase, and then in uppercase
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";

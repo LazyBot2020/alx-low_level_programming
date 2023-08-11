@@ -2,7 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-/* the alphabets without q and e */
+/**
+ * main - the alphabets without q and e
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int i;

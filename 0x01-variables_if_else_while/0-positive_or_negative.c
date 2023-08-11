@@ -2,7 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/* positive, 0 or negative */
+/**
+ * main - positive, 0 or negative
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
 	int n;

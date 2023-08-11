@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* numbers between 0 to 9 and alphabets from a to f */
+/**
+ * main - numbers between 0 to 9 and alphabets from a to f
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int i;

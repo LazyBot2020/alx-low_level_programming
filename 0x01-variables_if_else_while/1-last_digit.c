@@ -2,7 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/*  greater than 5, less than 6 and not 0, or 0 */
+/**
+ * main - greater than 5, less than 6 and not 0, or 0
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;

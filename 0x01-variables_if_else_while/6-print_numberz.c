@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* numbers of base 10 starting from 0 */
+/**
+ * main - numbers of base 10 starting from 0 without using printf
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int i;

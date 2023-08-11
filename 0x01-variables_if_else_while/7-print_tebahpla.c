@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* lowercase alphabets in reverse */
+/**
+ * main - lowercase alphabets in reverse
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char ch;
